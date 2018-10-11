@@ -1,6 +1,4 @@
-# vuplay API Documentation
-
-# vuplay Smart (0.5.2)
+## vuplay Smart (0.5.2)
 
 This documentation describes the steps to integrate and use vuplay Smart
 

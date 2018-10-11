@@ -1,6 +1,4 @@
-# vuplay API Documentation
-
-# iOS SDK v0.9.8 (build 636)
+## iOS SDK v0.9.8 (build 636)
 
 This documentation describes the steps to integrate and use the vuplay SDK for iOS.
 

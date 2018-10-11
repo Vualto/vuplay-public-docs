@@ -1,6 +1,4 @@
-# vuplay API Documentation
-
-# Android SDK v1.1.1 (build 1304)
+## Android SDK v1.1.1 (build 1304)
 
 ## Introduction
 

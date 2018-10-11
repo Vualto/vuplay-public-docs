@@ -1,6 +1,4 @@
-# vuplay API Documentation
-
-# Chromecast Chrome Browser SDK (v0.1)
+## Chromecast Chrome Browser SDK (v0.1)
 
 ## Introduction
 
