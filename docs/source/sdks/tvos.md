@@ -35,8 +35,10 @@ tvOS 9 introduces Application Transport Security (ATS). In order to permit playb
 
 If your content is delivered via HTTPS that meets Appleâ€™s ATS guidelines, then the following exemption needs to be added for localhost:
 
-
-# THIS XML IS MALFORMED !!!!!!! ****
+<div class="admonition warning">
+    <p class="first admonition-title">Warning</p>
+    <p class="last">THIS XML IS MALFORMED</p>
+</div>
 
 ```XML
 <key>localhost</key>
