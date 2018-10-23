@@ -3,9 +3,6 @@ VUPLAY SMART
 
 Here you will find a range of tools to guide you in using VUPLAY Smart services.
 
-Contents:
----------
-
 .. toctree::
    :maxdepth: 2
 
