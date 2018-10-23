@@ -1,0 +1,97 @@
+pre {
+    background-color: rgba(255, 254, 245, 1);
+}
+
+.wy-side-nav-search, .wy-nav-top {
+    background-color: #003c69 !important;
+}
+
+.version {
+    color: white !important;
+}
+
+.wy-menu-vertical .toctree-l1:not(.current):active {
+    background-color:  #003c69 !important;
+} 
+
+.wy-menu-vertical a:active {
+    background-color:  rgba(255, 255, 255, 0) !important;
+} 
+
+body, p, h1, h2, h3, h4, h5, h6 {
+    font-family: Arial !important;
+}
+
+h1, h2, h3, h4, h5, h6, a, .wy-nav-content-wrap .caption {
+    color: #003c69;    
+}
+
+.wy-nav-content-wrap a:hover {
+    color: #0099CC;
+}
+
+.wy-side-nav-search a:hover {
+    background: rgba(255, 255, 255, 0);
+}
+
+.danger .admonition-title {
+    background: #C60C30 !important;
+}
+
+.warning .admonition-title {
+    background: #FECB00 !important;
+}
+
+.hint .admonition-title {
+    background: #92D400 !important;
+}
+
+.note .admonition-title {
+    background: #0099CC !important;
+}
+
+.wy-nav-top img {
+    height: 30px;
+    width: 120px;
+    border-radius: 0%;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.wy-side-nav-search img {
+    padding: 35px;
+    min-width: 120px;
+}
+
+.rst-versions.shift-up .other-versions {
+    display: block;
+}
+
+.rst-versions .other-versions {
+    font-size: 90%;
+    padding: 12px;
+    color: gray;
+    display: none;
+}
+
+.other-versions {
+    text-align: left;
+}
+
+.rst-versions .other-versions dd a {
+    display: inline-block;
+    padding: 6px;
+    color: #fcfcfc;
+}
+
+.other-versions a {
+    border: 0;
+}
+
+.rst-versions .other-versions dd {
+    display: inline-block;
+    margin: 0;
+}
+
+.toctree-expand {
+    display : none !important;
+}
