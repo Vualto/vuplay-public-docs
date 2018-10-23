@@ -16,3 +16,4 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   skds.index.rst
