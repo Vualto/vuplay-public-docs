@@ -17,3 +17,4 @@ Contents:
    :maxdepth: 2
 
    sdks/index.rst
+   vuplaysmart/index.rst
