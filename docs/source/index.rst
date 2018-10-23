@@ -1,3 +1,10 @@
+.. image:: _static/vuplayLogo.png
+   :width: 350px
+   :height: 65px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
+
 VUPLAY DOCUMENTATION
 ====================
 
