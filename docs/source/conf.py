@@ -35,7 +35,10 @@ project = u'vualto-vuplay-public-docs'
 copyright = u'2018, VUALTO'
 author = u'VUALTO'
 
-html_context = {'home_link': 'https://vualto-public-documentation.readthedocs-hosted.com'}
+html_context = {
+    'home_link': 'https://vualto-public-documentation.readthedocs-hosted.com',
+    'product_logo': '_static/vuplayLogo.png'
+}
 
 # The short X.Y version
 version = u''
