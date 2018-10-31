@@ -7,8 +7,8 @@ Here you will find a range of tools to guide you in using VUPLAY services. If yo
    :maxdepth: 2
    :hidden:
    
-   ALL DOCUMENTATION <https://vualto-public-documentation.readthedocs-hosted.com/>
-   VUPLAY <https://vualto-public-documentation.readthedocs-hosted.com/projects/vuplay/en/latest/>
+   ALL DOCUMENTATION <https://docs.vualto.com>
+   VUPLAY <https://docs.vualto.com/projects/vuplay/en/latest/>
 
 Contents:
 ---------
