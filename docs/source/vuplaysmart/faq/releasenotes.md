@@ -1,5 +1,9 @@
 # Release Notes
 
+## 1.15.0 
+
+* Rewrite of the wrappers surrounding THEOplayer
+
 ## 1.13.14-PreRelease
 
 * Add support for wrappers that rely on container div rather that player div.
