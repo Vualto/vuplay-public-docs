@@ -7,4 +7,7 @@ Here you will find a range of tools to guide you in integrating various VUPLAY S
    :maxdepth: 1
    :glob:
 
-   *
+   android.md
+   chromecast.md
+   ios.md
+   tvos.md
